@@ -1,3 +1,6 @@
-import * as foo from 'foo'
+interface Foo {
+  bar: number;
+  bas: string;
+}
 
-console.log(foo)
+const foo = {} as Foo;

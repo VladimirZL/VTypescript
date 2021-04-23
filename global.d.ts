@@ -1,3 +1,3 @@
-declare module 'foo' {
-  export const foo: number
+declare module 'zzy' {
+  export const zzy = 10
 }
